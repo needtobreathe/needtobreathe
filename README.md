@@ -8,25 +8,6 @@ pip install rxckstar
 ```
 <p align="center"><img src="https://count.getloli.com/get/@needtobreathe" alt="@needtobreathe" /></p>
 
- 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 <img src="./img/snake.svg">
 
 
