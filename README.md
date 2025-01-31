@@ -1,16 +1,35 @@
-## Hi there 👋
+<!-- <p align=center><img width=90% src="banner.gif"></img></p> -->
+<p align=center>
+<a href="https://discord.com/users/703179231886049341"><img src="https://discord.c99.nl/widget/theme-4/1016265659715420172.png" width=50%></a>
+ </p>
 
-<!--
-**needtobreathe/needtobreathe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+```sh-session
+pip install rxckstar 
+```
+<p align="center"><img src="https://count.getloli.com/get/@:addi00000" alt=":addi00000" /></p>
 
-Here are some ideas to get you started:
+ 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+![](https://raw.githubusercontent.com/Sutil/Sutil/2b2fad3bf54522bb30c8c170591fc68ff51b69e6/github-contribution-grid-snake2.svg)
+
+
+
+
