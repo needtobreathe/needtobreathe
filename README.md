@@ -1,3 +1,5 @@
+<p align="center"><img src="https://count.getloli.com/get/@needtobreathe" alt="@needtobreathe" /></p>
+
 ```sh-session
 const rxc = {
   pronouns: ["she", "her"],
@@ -17,9 +19,7 @@ const rxc = {
 
 module.exports = rxc; 
 ```
-<p align="center"><img src="https://count.getloli.com/get/@needtobreathe" alt="@needtobreathe" /></p>
 
-<img src="./img/snake.svg">
 
 
 
