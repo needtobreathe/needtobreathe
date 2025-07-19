@@ -1,6 +1,18 @@
-<p align="center"><img src="https://count.getloli.com/get/@needtobreathe" alt="@needtobreathe" /></p>
+<p align="center">
+  <img src="https://count.getloli.com/get/@needtobreathe" alt="@needtobreathe" />
+</p>
 
-```sh-session
+<h1 align="center">Hi there, I'm <code>rxc</code> 👋</h1>
+
+<p align="center">
+  <em>Passionate full-stack developer with love for clean code and backend elegance.</em>
+</p>
+
+---
+
+## 🧠 About Me
+
+```js
 const rxc = {
   pronouns: ["she", "her"],
 
@@ -17,7 +29,4 @@ const rxc = {
   ]
 };
 
-module.exports = rxc; 
-```
-
-<img src="./img/snake.svg">
+module.exports = rxc;
