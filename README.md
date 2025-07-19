@@ -20,7 +20,4 @@ const rxc = {
 module.exports = rxc; 
 ```
 
-
-
-
-
+<img src="./img/snake.svg">
