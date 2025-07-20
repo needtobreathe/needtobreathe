@@ -1,0 +1,121 @@
+# 🎮 OYUN SENARYOSU: Sessiz Orman
+
+## 📌 Genel Bilgiler
+
+- **Oyun Türü:** 2D Tek Oyunculu – Bulmaca & Macera
+- **Ana Karakter:** Elif
+- **Tema:** Hafıza, kayıp, yalnızlık, yüzleşme
+- **Hedef:** Anıları ve ailesini bulmak için ormanda ilerlemek
+
+---
+
+## 📖 Hikâye (Storyline)
+
+Elif, çocukluğunda ailesiyle birlikte bir ormanda yaşayan bir yazardır. Bir gün ailesi gizemli bir şekilde kaybolur. O olaydan sonra şehirde yaşamaya başlar ve yıllarca ormana dönmez.  
+Ancak bir gece rüyasında eski evini, ormanı ve ailesini tekrar görür. Rüya öyle gerçektir ki, uyandığında kendini ormanın kenarında bulur. Tek bir yol vardır: içeri girmek.
+
+Elif ormanda ilerledikçe, hem ailesine dair parçaları hem de kendi geçmişine dair yüzleşmeleri keşfeder.
+
+---
+
+## 🎯 Oyun Amacı
+
+Elif, ormanda dağılmış olan **günlük sayfalarını ve eski eşyaları** bulur.  
+Her eşya ya da sayfa:
+- Yeni bir bölgenin kilidini açar,
+- Bir hafıza sahnesini canlandırır,
+- Yeni bir yetenek kazandırır.
+
+Amaç:  
+Tüm sayfaları birleştirip geçmişte olanları öğrenmek ve bir karar vermek: **Geçmişte kalmak mı, yoksa yüzleşip yola devam etmek mi?**
+
+---
+
+## 🧩 Oynanış Mekanikleri
+
+### 🔐 Bulmaca Sistemi
+- Semboller, eski yazıtlar, kilitli geçitler
+- Hafıza ipuçları ile çözülen mantık bulmacaları
+
+### 📜 Günlük Sayfaları
+- Ormana dağılmış 5 sayfa
+- Her sayfa bir geçidi açar veya yeni bir yetenek verir
+
+### 🗃 Ortam Etkileşimi
+- Mektuplar, kitaplar, terk edilmiş eşyalar
+- Bazı nesneler hikâyeyi metin veya kısa sinematik sahneyle aktarır
+
+### 🧠 Zihin Yolculuğu (Memory Mode)
+- Bazı nesneler geçmiş sahnesi başlatır
+- Bu sahnelerde çocuk Elif’i kontrol ederiz
+
+### 🔦 Işık & Gölge Mekaniği
+- Bazı geçitler/gizli yollar sadece fenerle görünür
+- Gölgeyle oynayan mini bulmacalar
+
+---
+
+## 🎨 Grafik ve Atmosfer
+
+- **Stil:** El çizimi/pastel tonlu 2D yan görünümlü
+- **Doku:** Loş ışık, puslu manzara, melankolik tonlar
+- **Ses:** Sessizlik, rüzgâr, hafif piyano, uzaktan gelen doğa sesleri
+- **Müzik:** Piyano & yaylılar, minimal ve duygusal
+
+---
+
+## 📦 Bölüm Yapısı
+
+### 1. Giriş – Orman Kapısı
+- Uyandıktan sonra ormanın içine girilir
+- İlk bulmaca: Taş sembolleri sıralayıp kapıyı aç
+
+### 2. Eski Ev – Kayıp Günlük
+- Elif’in terk edilmiş evi
+- İlk sayfa burada bulunur, bir anı sahnesi açılır
+
+### 3. Göl Kenarı – Hafıza Bulmacası
+- Suyun yansımasında görünmeyen yollar
+- Anı parçaları gölde gizlidir
+
+### 4. Mağara – Gölge Bulmacası
+- Fener ile taşlara ışık tutularak doğru sıralama yapılır
+- Karanlık korkusuyla yüzleşme sahnesi
+
+### 5. Final – Gerçek ile Yüzleşme
+- Tüm günlük sayfaları tamamlanır
+- Elif geçmişte yaşanan trajediyi öğrenir
+- Oyuncuya son karar sorulur: Ormanda kalmak mı, şehir hayatına geri dönmek mi?
+
+---
+
+## 🛠 Kullanılabilecek Oyun Motorları
+
+### 🌀 Godot (önerilen)
+- Ücretsiz ve açık kaynak
+- 2D’ye odaklı
+- Hızlı prototipleme
+- Türkçe kaynaklar mevcut
+
+### 🧱 Unity (2D template)
+- Geniş topluluk
+- Asset Store avantajı
+- Daha büyük projeler için uygun
+
+---
+
+## 💡 Geliştirme Tavsiyeleri
+
+- İlk olarak sadece bir bölüm geliştir (örneğin “Eski Ev”)
+- Diyaloglar ve sahneleri metin dosyalarında tut
+- Hikâyeyi oyuncuya doğrudan verme, keşif üzerinden anlat
+- Bulmacaları önce kâğıt üzerinde planla
+- Ses & atmosferi önemse:
+  - [https://freesound.org](https://freesound.org)
+  - [https://incompetech.com/music/](https://incompetech.com/music/)
+
+---
+
+## 📌 Sonraki Adım
+İlk bölümün (Orman Kapısı) detaylı level planı ve görev listesi hazırlanabilir.  
+İstersen bu bölümü yazalım mı?
