@@ -14,7 +14,7 @@
 
 ```js
 const rxc = {
-  pronouns: ["she", "her"],
+  pronouns: ["he", "him"],
 
   code: ["JavaScript", "PHP", "HTML", "CSS", "Python"],
 
