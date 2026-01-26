@@ -1,32 +1,54 @@
 <p align="center">
-  <img src="https://count.getloli.com/get/@needtobreathe" alt="@needtobreathe" />
+  <img src="https://raw.githubusercontent.com/needtobreathe/needtobreathe/refs/heads/main/img/pacman-contributions.svg" alt="contribution graph" />
 </p>
 
-<h1 align="center">Hi there, I'm <code>rxc</code> 👋</h1>
+<h2 align="center">⚡ Full Stack Developer</h2>
 
 <p align="center">
-  <em>Passionate full-stack developer with love for clean code and backend elegance.</em>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D" />
+  <img src="https://img.shields.io/badge/Nuxt-002E3B?style=for-the-badge&logo=nuxtdotjs&logoColor=00DC82" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
+  <br />
+  <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <br />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white" />
+  <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" />
 </p>
 
----
+```javascript
+const smt = {
+  stack: {
+    frontend: ["Vue.js", "Nuxt.js", "Tailwind CSS", "JavaScript"],
+    backend: ["Node.js", "Express", "MongoDB", "Python"],
+    devops: ["Docker", "Nginx", "Git"]
+  },
 
-## 🧠 About Me
-
-```js
-const rxc = {
-  pronouns: ["he", "him"],
-
-  code: ["JavaScript", "PHP", "HTML", "CSS", "Python"],
-
-  tools: [
-    "Django",
-    "Laravel",
-    "Node",
-    "Express",
-    "MySQL",
-    "PostgreSQL",
-    "Docker"
-  ]
+  currentFocus: "SaaS Applications & E-Commerce Solutions",
+  challenge: "Refactoring legacy minds to modern stacks 🚀"
 };
 
-module.exports = rxc;
+module.exports = smt;
+```
+
+<div align="center">
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img
+      height="170"
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=needtobreathe&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&langs_count=6"
+      alt="Top Languages"
+    />
+  </a>
+
+  <a href="https://github.com/denvercoder1/github-readme-streak-stats">
+    <img
+      height="170"
+      src="https://github-readme-streak-stats-beryl-pi.vercel.app/?user=needtobreathe&theme=black-ice"
+      alt="GitHub Streak"
+    />
+  </a>
+</div>
