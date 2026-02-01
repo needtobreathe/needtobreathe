@@ -43,12 +43,4 @@ module.exports = smt;
       alt="Top Languages"
     />
   </a>
-
-  <a href="https://github.com/denvercoder1/github-readme-streak-stats">
-    <img
-      height="170"
-      src="https://github-readme-streak-stats-beryl-pi.vercel.app/?user=needtobreathe&theme=black-ice"
-      alt="GitHub Streak"
-    />
-  </a>
 </div>
