@@ -25,8 +25,3 @@
     <img src="https://streak-stats.demolab.com/?user=needtobreathe&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
   </a>
 </p>
-
----
-
-### 🛠️ Currently working on
-<!--START_SECTION:activity-->
