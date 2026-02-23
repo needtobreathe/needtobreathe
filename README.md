@@ -20,17 +20,12 @@
   <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" />
 </p>
 
-```javascript
-const smt = {
-  stack: {
-    frontend: ["Vue.js", "Nuxt.js", "Tailwind CSS", "JavaScript"],
-    backend: ["Node.js", "Express", "MongoDB", "Python"],
-    devops: ["Docker", "Nginx", "Git"]
-  },
+<p align="center">
+  <a href="https://git.io/streak-stats">
+    <img src="https://streak-stats.demolab.com/?user=needtobreathe&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  </a>
+</p>
 
-  currentFocus: "SaaS Applications & E-Commerce Solutions",
-  challenge: "Refactoring legacy minds to modern stacks 🚀"
-};
+---
 
-module.exports = smt;
-```
+### 🛠️ Currently working on
